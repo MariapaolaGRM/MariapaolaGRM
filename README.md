@@ -1,16 +1,30 @@
-## Hi I'm Mariapaola 👋
+## 👋 Hi, I'm Mariapaola Germinario
 
-<!--
-**MariapaolaGRM/MariapaolaGRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='left'>
+   <a href="https://www.linkedin.com/in/mariapaola-germinario/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+</p>
 
-Here are some ideas to get you started:
+I'm from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> <b>Bisceglie, Italy</b>. I am a Master’s student in **Automation Engineering** at Politecnico di Bari with a strong inclination
+towards continuous learning, precision, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- C++
+- Java
+- MATLAB
+- PHP
+
+**Technologies & Tools**
+- ROS (Robot Operating System)
+- MySQL (database design)
+- Docker (basic knowledge)
+- Arduino (basic knowledge)
+
+---
+
+⭐ On this GitHub profile, I share academic and personal projects related to
+automation, robotics, and software development.
