@@ -12,17 +12,14 @@ towards continuous learning, precision, and problem-solving.
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Python
-- C++
-- Java
-- MATLAB
-- PHP
+
+Python • C++ • Java • MATLAB • PHP
 
 **Technologies & Tools**
-- ROS (Robot Operating System)
-- MySQL (database design)
-- Docker (basic knowledge)
-- Arduino (basic knowledge)
+- ROS2 (Robot Operating System)
+- MySQL 
+- Docker 
+- Arduino 
 
 ---
 
