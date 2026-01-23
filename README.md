@@ -15,7 +15,7 @@ Python • C++ • Java • MATLAB • PHP
 - Docker 
 - Arduino 
 
-## 📫 Contatti 
+## 📫 Contacts
 
 Linkedin: www.linkedin.com/in/mariapaola-germinario <br>
 Email: mariapaolagerminario@gmail.com
