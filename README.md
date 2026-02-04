@@ -22,5 +22,4 @@ Email: mariapaolagerminario@gmail.com
 
 ---
 
-⭐ On this GitHub profile, I share academic and personal projects related to
-automation, robotics, and software development.
+⭐ On this GitHub profile, I share academic and personal projects.
